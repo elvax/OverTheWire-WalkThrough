@@ -1,1 +1,4 @@
-Simply echo S1JZUFRPTklTR1JFQVQ= | base64 -d
+Simply 
+``` bash
+echo S1JZUFRPTklTR1JFQVQ= | base64 -d
+```
